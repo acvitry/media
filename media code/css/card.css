@@ -1,0 +1,54 @@
+card.css
+
+.card-titre {
+	padding: 50px;
+	margin: 50px;
+	background-color: #ffbf69;
+}
+.card-edito{
+
+	margin:100px;
+	padding:50px;
+	background-color:#cbf3f0;
+}
+.card1:hover{
+	background-color: white
+}
+.card1 {
+	margin:100px;
+	padding:50px;
+	background-color:#cbf3f0;
+
+}
+.card2:hover{
+	background-color: white
+}
+.card2{
+	margin:100px;
+	padding:50px;
+	background-color:#cbf3f0;
+
+}
+.card3:hover{
+	background-color: white
+}
+.card3{
+	margin:100px;
+	padding:50px;
+	background-color:#cbf3f0;
+}
+.card4:hover{
+	background-color: white
+}
+.card4{
+	margin:100px;
+	padding:50px;
+	background-color:#cbf3f0;
+
+}
+.card-agenda{
+	margin:100px;
+	padding:50px;
+	background-color: #cbf3f0;
+	
+}
